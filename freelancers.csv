@@ -1,0 +1,7 @@
+id,name,skills,experience,past_projects,hourly_rate
+1,Alice,"Python, Flask, ML",3,10,30
+2,Bob,"JavaScript, React, Node",5,20,40
+3,Charlie,"Python, Django, Data Science",4,15,35
+4,David,"Java, Spring, ML",2,5,25
+5,Eve,"Python, FastAPI, NLP",6,30,50
+6,Frank,"C++, Embedded Systems",4,12,45
